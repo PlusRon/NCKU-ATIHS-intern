@@ -24,6 +24,6 @@
 
 ### 實作電路
 <p align="left">
-  <img src="images/circuit.jpg" alt="電路" style="width:50%">
+  <img src="images/circuit.jpg" alt="電路" style="width:30%">
   <img src="images/measure.jpg" alt="測量" style="width:50%">
 </p>
