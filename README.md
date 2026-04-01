@@ -7,6 +7,8 @@
 - [簡報設計](#簡報設計)
 - [學習單設計](#學習單設計)
 
+<img src="images/A1教學演示海報.png" alt="教學演示海報" style="width:50%">
+
 ### [教案設計](教學計劃_教案設計) 
 
 ### [教具製作](https://github.com/PlusRon/Flutter_app-Electronics_laboratory_project.git)
