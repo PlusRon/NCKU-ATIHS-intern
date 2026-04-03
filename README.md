@@ -15,6 +15,8 @@
 
 ### [教具製作](https://github.com/PlusRon/Flutter_app-Electronics_laboratory_project.git)
   - #### [電子學電路模擬 App](https://flutter-app-electronics-lab.web.app/)
+    <img width="1908" height="1051" alt="image" src="https://github.com/user-attachments/assets/790828c0-4f91-4d6a-862c-ea42b2b498a4" />
+
 
 ### [簡報設計](簡報)
 <img src="images/簡報_反相放大器_量測.png" alt="簡報" style="width:50%">
