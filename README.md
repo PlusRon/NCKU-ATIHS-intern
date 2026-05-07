@@ -8,11 +8,10 @@
   - Features advanced web architecture including CI/CD-integrated Cache Busting and Asynchronous Service Worker monitoring to enhance interactive instructional demonstrations.
 
 ## OUTLINE
-- [一、電子電路實作 與 儀器量測](#一電子電路實作-與-儀器量測)
-- [二、數位教具製作](#二數位教具製作-GitHub)
-- [簡報設計](#簡報設計)
-- [學習單設計](#學習單設計)
-- [實作電路](#實作電路)
+- #### [一、電子電路實作 與 儀器量測](#一電子電路實作-與-儀器量測)
+- #### [二、數位教具製作](#二數位教具製作-GitHub)
+- #### [三、簡報設計](#三簡報設計)
+- #### [ 四、教案設計、學習單設計](# 四教案設計-學習單設計)
 
 ## 一、電子電路實作 與 儀器量測
 <p align="left">
