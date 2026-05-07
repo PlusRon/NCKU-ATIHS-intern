@@ -31,20 +31,17 @@
 ### 二、數位教具製作 [GitHub](https://github.com/PlusRon/Flutter_app-Electronics_laboratory_project.git)
   - #### 電子學電路模擬應用程式 [網站 App](https://flutter-app-electronics-lab.web.app/)
     <p align="left">
-      <img width="1908" height="1051" alt="image" src="https://github.com/user-attachments/assets/790828c0-4f91-4d6a-862c-ea42b2b498a4" >
-      <img width="1908" height="853" alt="image" src="https://github.com/user-attachments/assets/1baba88e-7f04-4754-941b-5ab4ee91de0d" >
+      <img src="images/App2.png" alt="" style="width:60%">
+      <img src="images/App1.png" alt="App 加法器" style="width:60%">
     </p>
 
-### [簡報設計](簡報)
-<img src="images/簡報_反相放大器_量測.png" alt="簡報" style="width:50%">
+### 三、[簡報設計](簡報)
+<img src="images/簡報_反相放大器_量測.png" alt="簡報" style="width:60%">
 
 
-### [教案設計](教學計劃_教案設計) 
-<img src="images/教案P1.png" alt="教案" style="width:50%">
+### 四、[教案設計](教學計劃_教案設計) [學習單設計](課程學習單)
+<p align="left">
+  <img src="images/教案P1.png" alt="教案" style="width:45%">
+  <img src="images/學習單.png" alt="學習單" style="width:42%">
+</p>
 
-
-
-
-
-### [學習單設計](課程學習單)
-<img src="images/學習單.png" alt="學習單" style="width:50%">
