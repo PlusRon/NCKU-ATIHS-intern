@@ -1,12 +1,26 @@
-# OPA 數位教具開發與實務量測課程整合專案
-本活動整合資訊開發與技職教育專長，利用 Flutter 打造跨平台互動電路模擬 App，引導學生透過平板進行數位探索，並結合 **OPA 反相與非反相放大器** 實習課程，帶領學生從軟體模擬平滑銜接至實體電路量測，藉由操作示波器、訊號產生器等專業儀器與學習單，建構從虛擬模擬到硬體實踐的全方位學習路徑。
+# Intern Teacher at NCKU-ATIHS 
+### Dept. of Information and Electronic Engineering
+- #### Hardware Instrumentation & Debugging
+  - Proficient in Oscilloscopes, DMMs, and Signal Generators.
+  - Expert in OPA, MOS, BJT, and Digital Logic breadboard assemblies with a focus on systematic troubleshooting.
+- #### Circuit Simulation App
+  - Developed a high-performance Flutter PWA (Wasm/Skia) that simulates real-time circuit behavior.
+  - Features advanced web architecture including CI/CD-integrated Cache Busting and Asynchronous Service Worker monitoring to enhance interactive instructional demonstrations.
 
-## Outline
+## OUTLINE
 - [教案設計](#教案設計)
 - [教具製作](#教具製作)
 - [簡報設計](#簡報設計)
 - [學習單設計](#學習單設計)
 - [實作電路](#實作電路)
+
+## 電子電路實作 與 儀器量測
+<p align="left">
+  <img src="images/circuit.jpg" alt="電路" style="width:30%">
+  <img src="images/measure.jpg" alt="測量" style="width:50%">
+</p>
+
+
 
 <img src="images/A1教學演示海報.png" alt="海報" style="width:50%">
 
